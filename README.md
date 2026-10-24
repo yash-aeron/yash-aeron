@@ -32,16 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash-aeron&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash-aeron&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-aeron&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yash-aeron&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=yash-aeron&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=15" alt="Trophies" />
 </p>
 
 ### 🐍 Watch the Snake Eat My Contributions
@@ -54,6 +50,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghp/visitors.svg?username=yash-aeron&label=Profile+visitors&color=7aa2f7&style=flat-square" alt="Visitors" />
-</p>
+<p align="center"><i>Thanks for stopping by 👋 — take a look at my <a href="https://github.com/yash-aeron?tab=repositories">repos</a></i></p>
