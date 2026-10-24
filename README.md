@@ -44,6 +44,14 @@
   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=yash-aeron&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=15" alt="Trophies" />
 </p>
 
+### 🐍 Watch the Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash-aeron/yash-aeron/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash-aeron/yash-aeron/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/yash-aeron/yash-aeron/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <p align="center">
